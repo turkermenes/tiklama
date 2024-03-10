@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TiklamaES:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TiklamaES_jar</output-path>
+    <root id="archive" name="TiklamaES.jar">
+      <element id="module-output" name="TiklamaES" />
+    </root>
+  </artifact>
+</component>
